@@ -1,0 +1,82 @@
+[
+  {
+    "id" 		      :	"1",
+    "modelo"		    :	"Brasilia",
+    "distribuidora"		    :	"volkswagen",
+    "lancamento"		    :	"1973",
+    "motor"		:	"1.584 cm3",
+    "descricao"		:	"O Volkswagen Brasília é um automóvel produzido desde 1973 até 1982"
+  },
+  {
+    "id" 		      :	"2",
+    "modelo"		    :	"Chevette",
+    "distribuidora"		    :	"Chevrolet",
+    "lancamento"		    :	"1973",
+    "motor"		:	"1.4",
+    "descricao"		:	"O Chevette foi um automóvel lançado pela General Motors no ano de 1973, sendo fabricado pela montadora Chevrolet no Brasil."
+  },
+  {
+    "id" 		      :	"3",
+    "modelo"		    :	"Monza",
+    "distribuidora"		    :	"Chevrolet",
+    "lancamento"		    :	"1982",
+    "motor"		:	" 1.8",
+    "descricao"		:	"Chevrolet Monza é um automóvel que foi fabricado pela General Motors a partir de 1982 no Brasil."
+  },
+  {
+    "id" 		      :	"4",
+    "modelo"		    :	"Opala",
+    "distribuidora"		    :	"Chevrolet",
+    "lancamento"		    :	"1968",
+    "motor"		:	" 4.1 de seis cilindros",
+    "descricao"		:	"O Chevrolet Opala é o primeiroautomóvel de passeio desenvolvido e fabricado pela General Motors do Brasil, de 1968 a 1992."
+  },
+  {
+    "id" 		      :	"5",
+    "modelo"		    :	"Fusca",
+    "distribuidora"		    :	"volkswagen",
+    "lancamento"		    :	"1959",
+    "motor"		:	" motor boxe",
+    "descricao"		:	"O ano de 1959 começou com o pontapé inicial na produção de um dos carros mais queridos pelos brasileiros, o Fusca."
+  },
+  {
+    "id" 		      :	"6",
+    "modelo"		    :	"Gol Quadrado",
+    "distribuidora"		    :	"volkswagen",
+    "lancamento"		    :	"1975",
+    "motor"		:	"1.3 e 1.6 ",
+    "descricao"		:	"tudo se iniciou por volta de 1975, com a ideia de se ter um novo modelo compacto"
+  },
+  {
+    "id" 		      :	"7",
+    "modelo"		    :	"ford ka",
+    "distribuidora"		    :	"ford",
+    "lancamento"		    :	"2001",
+    "motor"		:	"TI-VCT 1.0 ",
+    "descricao"		:	"Ford ka do ano 2001 "
+  },
+  {
+    "id" 		      :	"8",
+    "modelo"		    :	"kombi",
+    "distribuidora"		    :	"volkswagen",
+    "lancamento"		    :	"1960",
+    "motor"		:	" 1.4 flexível ",
+    "descricao"		:	"O Volkswagen Kombi foi um veículo comercial ligeiro produzido pela empresa automotiva alemã Volkswagen, entre 1950 e 2013. "
+  },
+  {
+    "id" 		      :	"9",
+    "modelo"		    :	"uno escada",
+    "distribuidora"		    :	"fiat",
+    "lancamento"		    :	"2010",
+    "motor"		:	" Firefly 1.0 de três cilindros e Firefly 1.3 de quatro cilindros. ",
+    "descricao"		:	"Em 2010 a fiat lança o carro mais veloz que o planeta já teve a honra de ver "
+  },
+  {
+    "id" 		      :	"10",
+    "modelo"		    :	"kwid",
+    "distribuidora"		    :	"renault",
+    "lancamento"		    :	"2017",
+    "motor"		:	" 1.0 de 70 cv",
+    "descricao"		:	"Lançado no Brasil em agosto de 2017, o Renault Kwid acaba de completar cinco anos à venda no mercado nacional "
+  }
+]
